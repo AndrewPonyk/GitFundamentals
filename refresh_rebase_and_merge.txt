@@ -1,1 +1,4 @@
 05.01.16 now)
+added from console line
+
+and another line from console nano
