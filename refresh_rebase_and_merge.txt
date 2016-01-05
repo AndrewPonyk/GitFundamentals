@@ -6,3 +6,6 @@ some another line from console 21:40
 added line from idea
 
 and another line from console nano
+
+and_one_more_method_from_idea(){
+}
