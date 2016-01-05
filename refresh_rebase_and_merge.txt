@@ -1,4 +1,8 @@
 05.01.16 now)
 added from console line
 some another line from console 21:40
+
+
+added line from idea
+
 and another line from console nano
