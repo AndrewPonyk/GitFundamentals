@@ -24,6 +24,7 @@ function testSourceTreeAfterMerge(){
  System.out.println(23:18);
 }
 
+line on BOTH branches
 23:27 idea
 08.01 01:20 40 from eclipse (// comment from console 01:28)(/*comment from eclipse 01:30*/)
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
