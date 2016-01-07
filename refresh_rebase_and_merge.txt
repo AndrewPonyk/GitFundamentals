@@ -11,6 +11,11 @@ and another line from console nano
 function lookOnSourceTreeAndCompareMergeAndRebase(){
  System.out.println("22:39");
 }
+
+function fromConsoleAndNeedMerge(){
+ System.out.println(23:24);
+}
+
 function compareRebaseAndMergeSourceTreeConsole1(){
  System.out.println("22:51");
 }
@@ -23,6 +28,8 @@ and_one_more_method_from_idea(){
         fixFromConsole();
     }
 }
+
+
 
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
  System.out.println("22:45");
