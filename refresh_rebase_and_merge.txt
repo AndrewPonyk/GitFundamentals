@@ -7,8 +7,12 @@ added line from idea
 
 and another line from console nano
 
+
 function lookOnSourceTreeAndCompareMergeAndRebase(){
  System.out.println("22:39");
+}
+function compareRebaseAndMergeSourceTreeConsole1(){
+ System.out.println("22:51");
 }
 
 and_one_more_method_from_idea(){
