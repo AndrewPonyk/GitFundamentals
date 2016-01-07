@@ -2,6 +2,9 @@
 added from console line
 some another line from console 21:40
 
+function() testSourceTreeAfterMerge{
+ System.out.println(23:19);
+}
 
 added line from idea
 
