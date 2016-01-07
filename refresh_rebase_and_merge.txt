@@ -20,6 +20,10 @@ and_one_more_method_from_idea(){
     }
 }
 
+function testSourceTreeAfterMerge(){
+ System.out.println(23:18);
+}
+
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
  System.out.println("22:45");
 }
