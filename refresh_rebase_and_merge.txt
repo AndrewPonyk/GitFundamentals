@@ -45,3 +45,5 @@ function testSourceTreeAfterMerge(){
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
  System.out.println("22:45");
 }
+
+line only on branch without js file
