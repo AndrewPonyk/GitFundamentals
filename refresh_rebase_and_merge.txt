@@ -2,6 +2,9 @@
 added from console line
 some another line from console 21:40
 
+function() testSourceTreeAfterMerge{
+ System.out.println(23:19);
+}
 
 added line from idea
 
@@ -29,6 +32,12 @@ and_one_more_method_from_idea(){
     }
 }
 
+
+
+
+function testSourceTreeAfterMerge(){
+ System.out.println(23:18);
+}
 
 
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
