@@ -10,6 +10,7 @@ added line from idea
 
 and another line from console nano
 
+23:36 idea
 
 function lookOnSourceTreeAndCompareMergeAndRebase(){
  System.out.println("22:39");
