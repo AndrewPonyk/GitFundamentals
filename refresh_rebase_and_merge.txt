@@ -7,6 +7,10 @@ added line from idea
 
 and another line from console nano
 
+function lookOnSourceTreeAndCompareMergeAndRebase(){
+ System.out.println("22:39");
+}
+
 and_one_more_method_from_idea(){
     from idea to two branches
     fix from idea ;;;;
