@@ -41,7 +41,7 @@ function testSourceTreeAfterMerge(){
 }
 
 23:27 idea
-
+08.01 01:20 40 from eclipse
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
  System.out.println("22:45");
 }
