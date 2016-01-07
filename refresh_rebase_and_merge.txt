@@ -40,6 +40,7 @@ function testSourceTreeAfterMerge(){
  System.out.println(23:18);
 }
 
+23:27 idea
 
 function lookOnSourceTreeAfterRebaseAndCompareWithMerge2(){
  System.out.println("22:45");
